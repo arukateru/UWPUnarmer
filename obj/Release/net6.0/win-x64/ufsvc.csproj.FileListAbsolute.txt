@@ -1,0 +1,15 @@
+C:\Users\Alcatel\source\repos\ufsvc\bin\Release\net6.0\win-x64\ufsvc.exe
+C:\Users\Alcatel\source\repos\ufsvc\bin\Release\net6.0\win-x64\ufsvc.deps.json
+C:\Users\Alcatel\source\repos\ufsvc\bin\Release\net6.0\win-x64\ufsvc.runtimeconfig.json
+C:\Users\Alcatel\source\repos\ufsvc\bin\Release\net6.0\win-x64\ufsvc.dll
+C:\Users\Alcatel\source\repos\ufsvc\bin\Release\net6.0\win-x64\ufsvc.pdb
+C:\Users\Alcatel\source\repos\ufsvc\obj\Release\net6.0\win-x64\ufsvc.csproj.AssemblyReference.cache
+C:\Users\Alcatel\source\repos\ufsvc\obj\Release\net6.0\win-x64\ufsvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alcatel\source\repos\ufsvc\obj\Release\net6.0\win-x64\ufsvc.AssemblyInfoInputs.cache
+C:\Users\Alcatel\source\repos\ufsvc\obj\Release\net6.0\win-x64\ufsvc.AssemblyInfo.cs
+C:\Users\Alcatel\source\repos\ufsvc\obj\Release\net6.0\win-x64\ufsvc.csproj.CoreCompileInputs.cache
+C:\Users\Alcatel\source\repos\ufsvc\obj\Release\net6.0\win-x64\ufsvc.dll
+C:\Users\Alcatel\source\repos\ufsvc\obj\Release\net6.0\win-x64\refint\ufsvc.dll
+C:\Users\Alcatel\source\repos\ufsvc\obj\Release\net6.0\win-x64\ufsvc.pdb
+C:\Users\Alcatel\source\repos\ufsvc\obj\Release\net6.0\win-x64\ufsvc.genruntimeconfig.cache
+C:\Users\Alcatel\source\repos\ufsvc\obj\Release\net6.0\win-x64\ref\ufsvc.dll

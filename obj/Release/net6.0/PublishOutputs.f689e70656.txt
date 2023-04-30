@@ -1,0 +1,5 @@
+C:\Users\Alcatel\source\repos\ufsvc\bin\Release\net6.0\publish\ufsvc.exe
+C:\Users\Alcatel\source\repos\ufsvc\bin\Release\net6.0\publish\ufsvc.dll
+C:\Users\Alcatel\source\repos\ufsvc\bin\Release\net6.0\publish\ufsvc.deps.json
+C:\Users\Alcatel\source\repos\ufsvc\bin\Release\net6.0\publish\ufsvc.runtimeconfig.json
+C:\Users\Alcatel\source\repos\ufsvc\bin\Release\net6.0\publish\ufsvc.pdb

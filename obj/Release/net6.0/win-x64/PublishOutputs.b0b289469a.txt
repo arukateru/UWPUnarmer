@@ -1,0 +1,2 @@
+C:\Users\Alcatel\source\repos\ufsvc\bin\Release\net6.0\publish\win-x64\ufsvc.pdb
+C:\Users\Alcatel\source\repos\ufsvc\bin\Release\net6.0\publish\win-x64\ufsvc.exe
